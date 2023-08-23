@@ -1,12 +1,11 @@
 # Unorder List
 
-In HTML, you can create ordered lists using the <ol> element. An ordered list is a list of items where each item is automatically numbered. Each list item is represented by the <li> element. Here's how you can create an ordered list:
+In HTML, the <li> (list item) element is used to define items within ordered or unordered lists. These lists help structure content and present it in a meaningful way. Here's how you can use the <li> element:
 
 ```
-<ol>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ol>
+  <li>  Item 1 </li>
+  <li>  Item 2 </li>
+  <li>  Item 3 </li>
+
 
 ```
