@@ -1,6 +1,6 @@
 # Unorder List
 
-An unordered list in HTML is created using the <ul> (unordered list) element. This element is used to create a list of items where the order doesn't matter. Each item in the list is represented by a <li> (list item) element. Here's how you can create an unordered list
+An unordered list in HTML is created using the (unordered list) element. This element is used to create a list of items where the order doesn't matter. Each item in the list is represented by a (list item) element. Here's how you can create an unordered list
 
 ```
 <ul>
