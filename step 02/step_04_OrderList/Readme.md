@@ -1,6 +1,6 @@
 # Order List
 
-In HTML, you can create ordered lists using the <ol> element. An ordered list is a list of items where each item is automatically numbered. Each list item is represented by the <li> element. Here's how you can create an ordered list:
+In HTML, you can create ordered lists using the element. An ordered list is a list of items where each item is automatically numbered. Each list item is represented by the element. Here's how you can create an ordered list:
 
 ```
 <ol>
