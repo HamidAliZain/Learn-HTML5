@@ -1,4 +1,4 @@
-# Images and Viseos
+# Images and Videos
 
 In HTML, you can embed images and videos using the img and video elements, respectively. Here's how you can use these elements to include images and videos in your webpage:
 
